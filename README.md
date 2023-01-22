@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 	 0x11. C - printf
 
 Write a function that produces output according to a format.
@@ -14,3 +15,6 @@ You don’t have to handle the flag characters
 You don’t have to handle field width
 You don’t have to handle precision
 You don’t have to handle the length modifiers
+=======
+# printf
+>>>>>>> a9da93af967fcb741da2f33219503cc25a5a11b6
