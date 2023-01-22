@@ -5,6 +5,7 @@
 #include <limits.h>
 #include <stdlib.h>
 #include <stdarg.h>
+#include <unistd.h>
 
 /* Length Modifier Macros */
 #define SHORT 1
