@@ -5,9 +5,16 @@ int run_printf(const char *format, va_list args, buffer_t *output);
 int _printf(const char *format, ...);
 
 /**
+<<<<<<< HEAD
  * cleanup - Peforms cleanup operations for _printf.
  * @args: A va_list of arguments provided to _printf.
  * @output: A buffer_t struct.
+=======
+ * _printf -function that produces output according to a format.
+ * @format: a character string
+ * hazssan1
+ * Return: the numbers of char printed
+>>>>>>> 9c58f428435fd392a4c60da0a39594f50e8f3c14
  */
 void cleanup(va_list args, buffer_t *output)
 {
