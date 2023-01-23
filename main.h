@@ -7,10 +7,6 @@
 #include <stdarg.h>
 #include <unistd.h>
 
-/* Length Modifier Macros */
-#define SHORT 1
-#define LONG 2
-
 /**
  * struct flags - struct containing flags to "turn on"
  * when a flag specifier is passed to _printf()
