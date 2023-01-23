@@ -1,1 +1,0 @@
--maxdepth 1 -mindepth 1 -exec mv {} . \;
