@@ -1,4 +1,4 @@
-#include "nain.h"
+#include "main.h"
 
 /**
  * print_hex - prints a number in hexadecimal base,
@@ -57,7 +57,7 @@ int print_octal(va_list l, flags_t *f)
 	int count = 0;
 
 	if (f->hash == 1 && str[0] != '0')
-		count += _putchar('0')
-			count += _puts(str);
+		count += _putchar('0');
+	count += _puts(str);
 	return (count);
 }
